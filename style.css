@@ -48,3 +48,10 @@ input[type=checkbox] {
   .banner-3{
     background-image: url(graos.jpg);
   }
+  .botao-padrao {
+    background-color: var(--marrom-claro);
+    color: black;
+  }
+  .botao-padrao:hover {
+    background-color: var(--marrom-escuro);
+  }
